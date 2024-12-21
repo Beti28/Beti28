@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Beatris!</h1>
+<h1>Hi, I'm Beatris! 👋</h1>
 
 ## 💫 About Me:
 Junior software developer currently studying computer science. Proficient<br>in JavaScript, HTML&CSS and has hands-on experience in ReactJS and<br>Angular through personal projects. Passionate about solving complex<br>problems and creating innovative web applications. Good communication<br>and teamwork skills, with a desire to apply my knowledge professionally.
