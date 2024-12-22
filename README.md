@@ -1,7 +1,7 @@
 <h1>Hi, I'm Beatris! 👋</h1>
 
 ## 💫 About Me:
-<p>🌐 currently working on own project</p>
+<p>🌐 currently working on my own project</p>
 <p>👩🏻‍🎓 studying computer science at University of Library Studies and Information Technologies</p>
 <p>🔎 desire to apply my knowledge professionally</p>
 
