@@ -1,9 +1,9 @@
 <h1>Hi, I'm Beatris! 👋</h1>
 
 ## 💫 About Me:
-### 🌐 currently working on own project
-### 👩🏻‍🎓 studying computer science at University of Library Studies and Information Technologies
-### 🔎 desire to apply my knowledge professionally
+<p>🌐 currently working on own project</p>
+<p>👩🏻‍🎓 studying computer science at University of Library Studies and Information Technologies</p>
+<p>🔎 desire to apply my knowledge professionally</p>
 
 <h2>🚀 Tech Stack:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
