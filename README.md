@@ -33,9 +33,10 @@
 
 ## ⚡️ Where to find me:
  <div align="left">
-  <a href="https://www.linkedin.com/in/beatris-ivanova-517801339/" target="_blank">
+  <a href="https://www.linkedin.com/in/beatris-ivanova-517801339/" target="_blank" style="margin: 0; padding: 0; display: inline-block;">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-</a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=beatrisivanova05@gmail.com" target="_blank">
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=beatrisivanova05@gmail.com" target="_blank" style="margin: 0; padding: 0; display: inline-block;">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
 </a>
 </div>
